@@ -14,7 +14,7 @@
       <h4>Fill in the text, select the color<br>and watch the magic happens.</h4>
       <label>Enter Text:</label>
       <input type="text" name="text" id="text-input">
-      <br>
+      <br><br>
       <label>Select Color:</label>
       <select name="color" id="color-select">
         <option value="FFFFFF">Default White</option>

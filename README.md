@@ -1,2 +1,2 @@
 # PHP-QRCodeGenerator2
-Realtime QR Code Generator
+Real-time QR Code Generator that's more intuitive and easier to use.
