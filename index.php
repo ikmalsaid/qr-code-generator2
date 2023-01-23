@@ -17,10 +17,10 @@
       <br>
       <label>Select Color:</label>
       <select name="color" id="color-select">
-        <option value="FFFFFF">White</option>
-        <option value="FF0000">Red</option>
-        <option value="00FF00">Green</option>
-        <option value="0000FF">Blue</option>
+        <option value="FFFFFF">Default White</option>
+        <option value="FFD966">Bright Yellow</option>
+        <option value="8FCE00">Apple Green</option>
+        <option value="FF8040">Mighty Orange</option>
       </select>
       <br><br><hr><br>
       <b>Made with <span class="heart">♥</span> by Ikmal Said</b>

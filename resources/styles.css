@@ -53,6 +53,8 @@ body {
 
 #preview img {
   background-color: #fff;
+  width: 200px;
+  height: 200px;
   padding: 10px;
   border-radius: 10px;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
